@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Stanton Hudja"
-  avatar           : "stanton.png"
+  avatar           : "/images/stanton.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Waco, TX"
   employer         :
