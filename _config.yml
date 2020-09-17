@@ -6,6 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+
+header: 
+image: /images/baylor.jpg
+
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
 locale                   : "en-US"
