@@ -10,8 +10,7 @@
 header: 
 image: /images/baylor.jpg
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air"
+
 locale                   : "en-US"
 title                    : "Stanton Hudja"
 title_separator          : "-"
@@ -35,7 +34,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
