@@ -10,8 +10,9 @@
  *
 */
 
-@import "minimal-mistakes/skins/default"; // skin
 @import "minimal-mistakes";
+@import "minimal-mistakes/skins/default"; // skin
+
 
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
