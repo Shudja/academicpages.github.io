@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-<br />
 
 Welcome! I am a Postdoctoral Researcher at Baylor University. 
 
