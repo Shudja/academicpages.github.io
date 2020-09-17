@@ -18,7 +18,7 @@ I use experimental methods and behavioral economics to study questions related t
 
 
 Contact Information: <br />
-&nbsp Department of Economics, Baylor University <br />
-&nbsp1621 S. 3rd Street, Waco, TX 76706 <br />
-&nbsp Email: stanton_hudja@baylor.edu <br />
+&nbsp; Department of Economics, Baylor University <br />
+&nbsp; 1621 S. 3rd Street, Waco, TX 76706 <br />
+&nbsp; Email: stanton_hudja@baylor.edu <br />
 
