@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Stanton Hudja"
+  name             : "Stanton Hudja"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "Postdoc at Baylor University"
   location         : "Waco, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
