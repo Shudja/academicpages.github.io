@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<p></p>
 
 Welcome! I am a Postdoctoral Researcher at Baylor University. 
 
